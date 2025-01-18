@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004
 https://linears-playback.astro.com.my/vsg/41m3G2RLcinIqKSj5Dg7oT8YGS68etMXpaI5c2gwwMls8=ODmq/dash-wv/jitp-linearwm/1004/default_ott.mpd?10
